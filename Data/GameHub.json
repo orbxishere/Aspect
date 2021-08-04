@@ -1,9 +1,39 @@
 {
-  "Games": [
-    {
-      "Name": "",
-      "Source": "",
-      "Images": ""
-    }
-  ]
-}
+    "Games": [
+      {
+        "Name": "Arsenal",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/Arsenal.jpg?raw=true"
+      },
+      {
+        "Name": "Anime Fighters",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pspboy08/dollhouse/main/AFSGUI.lua',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/AnimeFighters.jpg?raw=true"
+      },
+      {
+        "Name": "Energy Assault",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/EnergyAssault.jpg?raw=true"
+      },
+      {
+        "Name": "Project XL",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/ProjectXl.jpg?raw=true"
+      },
+      {
+        "Name": "Zombie Attack",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/ZombieAttack.jpg?raw=true"
+      },
+      {
+        "Name": "Murder Mysteri 2",
+        "Source": "loadstring(game:GetObjects('rbxassetid://4001118261')[1].Source)()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/MM2.jpg?raw=true"
+      },
+      {
+        "Name": "Natural Disaster Survival",
+        "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringUjHI6RQpz2o8',true))()",
+        "Images": "https://github.com/orbxishere/Aspect/blob/main/Images/NaturalDisaster.png?raw=true"
+      }
+    ]
+  }
