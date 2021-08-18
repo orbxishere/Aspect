@@ -140,8 +140,8 @@
                 <Key word="then"/>
                 <Key word="until"/>
                 <Key word="while"/>
-				<Key word="game"/>
-				<Key word="workspace"/>
+		<Key word="game"/>
+		<Key word="workspace"/>
             </KeyWords>
 
             <KeyWords name="Values" bold="false" italic="false" color="#569CD6">
@@ -172,39 +172,13 @@
                 <Key word="file"/>
                 <Key word="debug"/>
                 <Key word="math"/>
-                <Key word="Synapse"/>
-                <Key word="Sentinel"/>
-                <Key word="Sirhurt"/>
-                <Key word="Protosmasher"/>
-                <Key word="Maximus"/>
-                <Key word="Raindrop"/>
                 <Key word="console"/>
                 <Key word="coroutine"/>
                 <Key word="package"/>
                 <Key word="_G"/>
                 <Key word="string"/>
             </KeyWords>
-			
-			<KeyWords name="Raindrop_Funcs" bold="true" italic="false" color="Orange">
-				<Key word="AddCommand"/>
-				<Key word="MessageBox"/>
-				<Key word="MessageBoxAsync"/>
-                <Key word="Decompile"/>
-				<Key word="DownloadString"/>
-				<Key word="CopyString"/>
-				<Key word="ExecuteCommand"/>
-				<Key word="FindPlayers"/>
-				<Key word="GetConsole"/>
-			</KeyWords>
-			
-			<KeyWords name="Raindrop_Console_Funcs" bold="true" italic="false" color="Orange">
-				<Key word="CreateConsole"/>
-				<Key word="SetConsoleName"/>
-				<Key word="Write"/>
-				<Key word="WriteLine"/>
-				<Key word="ReadLine"/>
-				<Key word="SetColor"/>
-			</KeyWords>
+		
         </RuleSet>
         <RuleSet name="CommentMarkerSet" ignorecase="false">
             <Delimiters>&lt;&gt;~!@%^*()-+=|\#/{}[]:;"' ,	.?</Delimiters>
